@@ -32,6 +32,10 @@
   * [Discussion boards](description-of-tools-domains/discussion-boards.md)
 * [Developer Guide](developer-guide.md)
   * [Course routes](developer-guide/course-routes.md)
+  * [Contributing](developer-guide/contributing.md)
+  * [Roadmap](developer-guide/roadmap.md)
+  * [Process](developer-guide/process.md)
+  * General Questions
 * Tutorials
 * [HAX](hax.md)
 
