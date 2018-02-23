@@ -24,7 +24,7 @@
     * [Interact - ICOR](description-of-tools-domains/experimenting-engines/interact-icor.md)
     * [Live questions - LQ](description-of-tools-domains/experimenting-engines/live-questions-lq.md)
     * [Grades - Assessment](description-of-tools-domains/experimenting-engines/grades.md)
-* Developer Guide
+* [Developer Guide](developer-guide.md)
 * Tutorials
 * HAX
 
