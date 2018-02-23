@@ -24,6 +24,11 @@
     * [Interact - ICOR](description-of-tools-domains/experimenting-engines/interact-icor.md)
     * [Live questions - LQ](description-of-tools-domains/experimenting-engines/live-questions-lq.md)
     * [Grades - Assessment](description-of-tools-domains/experimenting-engines/grades.md)
+    * [Inbox](description-of-tools-domains/experimenting-engines/inbox.md)
+    * [Blogs](description-of-tools-domains/experimenting-engines/blogs.md)
+  * Person registry
+  * Course content / outline
+  * Open Studio
 * [Developer Guide](developer-guide.md)
 * Tutorials
 * HAX
