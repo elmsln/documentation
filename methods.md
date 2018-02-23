@@ -14,11 +14,11 @@ Here is how to print a message to `stdout` using JavaScript.
 console.log('My first method');
 ```
 
-{% sample lang="go" %}
-Here is how to print a message to `stdout` using Go.
+{% sample lang="php" %}
+Here is how to print a message to `stdout` using php.
 
-```go
-fmt.Println("My first method")
+```php
+print $stuff;
 ```
 
 {% common %}
