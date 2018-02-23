@@ -10,7 +10,20 @@
     * Outline designer
   * [Media](end-user-guide/media.md)
     * [H5P](end-user-guide/media/h5p.md)
-* Information Architecture
+* [Information Architecture](information-architecture.md)
+  * [Visualizing the network](information-architecture/visualizing-the-network.md)
+  * [Conceptual context](information-architecture/conceptual-context.md)
+  * [System data model](information-architecture/system-data-model.md)
+  * [Course data model](information-architecture/course-data-model.md)
+  * [Section data model](information-architecture/section-data-model.md)
+  * [User roles](information-architecture/user-roles.md)
+* [Description of tools / domains](description-of-tools-domains.md)
+  * [Course information system](description-of-tools-domains/course-information-system-cis.md)
+  * [Media management](description-of-tools-domains/media-management.md)
+  * [Experimenting engines](description-of-tools-domains/experimenting-engines.md)
+    * [Interact - ICOR](description-of-tools-domains/experimenting-engines/interact-icor.md)
+    * [Live questions - LQ](description-of-tools-domains/experimenting-engines/live-questions-lq.md)
+    * [Grades - Assessment](description-of-tools-domains/experimenting-engines/grades.md)
 * Developer Guide
 * Tutorials
 * HAX
