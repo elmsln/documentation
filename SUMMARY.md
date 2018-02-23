@@ -26,10 +26,12 @@
     * [Grades - Assessment](description-of-tools-domains/experimenting-engines/grades.md)
     * [Inbox](description-of-tools-domains/experimenting-engines/inbox.md)
     * [Blogs](description-of-tools-domains/experimenting-engines/blogs.md)
-  * Person registry
-  * Course content / outline
-  * Open Studio
+  * [Person registry](description-of-tools-domains/person-registry.md)
+  * [Course content / outline](description-of-tools-domains/course-content-outline.md)
+  * [Open Studio](description-of-tools-domains/open-studio.md)
+  * [Discussion boards](description-of-tools-domains/discussion-boards.md)
 * [Developer Guide](developer-guide.md)
+  * [Course routes](developer-guide/course-routes.md)
 * Tutorials
 * HAX
 
