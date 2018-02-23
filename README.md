@@ -24,7 +24,7 @@ See the Docs for questions and documentation either on our[docs site](https://el
 
 # Code of Conduct {#code-of-conduct}
 
-See https://github.com/elmsln/elmsln/blob/master/CODE\_OF\_CONDUCT.md for our ELMS:LN code of conduct.
+See [https://github.com/elmsln/elmsln/blob/master/CODE\_OF\_CONDUCT.md](https://github.com/elmsln/elmsln/blob/master/CODE_OF_CONDUCT.md) for our ELMS:LN code of conduct.
 
 # How can I get more involved? {#how-can-i-get-more-involved}
 

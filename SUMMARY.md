@@ -7,7 +7,7 @@
   * [Add a course](end-user-guide/add-a-course.md)
   * [Course content](end-user-guide/course-content.md)
     * [Editing content](end-user-guide/course-content/editing-content.md)
-    * Outline designer
+    * [Outline designer](end-user-guide/course-content/outline-designer.md)
   * [Media](end-user-guide/media.md)
     * [H5P](end-user-guide/media/h5p.md)
 * [Information Architecture](information-architecture.md)
@@ -33,5 +33,5 @@
 * [Developer Guide](developer-guide.md)
   * [Course routes](developer-guide/course-routes.md)
 * Tutorials
-* HAX
+* [HAX](hax.md)
 
