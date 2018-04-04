@@ -30,6 +30,7 @@
   * [Commandline](developer-guide/commandline.md)
     * [Drush examples](developer-guide/commandline/drush-examples.md)
   * [Debugging](developer-guide/debugging.md)
+  * [Customizing ELMS:LN](developer-guide/customizations.md)
 * [Information Architecture](information-architecture.md)
   * [Visualizing the network](information-architecture/visualizing-the-network.md)
   * [Conceptual context](information-architecture/conceptual-context.md)
